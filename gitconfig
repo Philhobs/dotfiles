@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = philhobs1999@gmail.com
+	name = Philip d Arenberg
